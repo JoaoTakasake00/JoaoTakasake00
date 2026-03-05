@@ -8,6 +8,8 @@ Tenho experiência com bancos de dados, sistemas operacionais, desenvolvimento e
 
 Gosto de enfrentar desafios e estou sempre em busca de aprendizado contínuo, principalmente quando posso aplicar esse conhecimento em projetos práticos e de impacto real.
 
+<br/>
+
 <p align="left">
     <a href="https://meu-linktree-v1.vercel.app/">
         <img 
