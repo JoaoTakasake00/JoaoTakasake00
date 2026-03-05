@@ -66,8 +66,8 @@ Gosto de enfrentar desafios e estou sempre em busca de aprendizado contínuo, pr
   />  
   <img 
     align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
+    alt="Selenium"
+    title="Selenium" 
     width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
     />
