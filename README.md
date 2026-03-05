@@ -59,20 +59,6 @@ Gosto de enfrentar desafios e estou sempre em busca de aprendizado contínuo, pr
   />
   <img 
     align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-  />  
-  <img 
-    align="left" 
-    alt="Selenium"
-    title="Selenium" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-    />
-  <img 
-    align="left" 
     alt="PHP"
     title="PHP" 
     width="40px" 
@@ -129,6 +115,15 @@ Gosto de enfrentar desafios e estou sempre em busca de aprendizado contínuo, pr
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoTakasake00&theme=tokyonight&custom_title=Tecnologias&hide_border=true&langs_count=8" 
   />
 </div>
+
+##
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
           
           
