@@ -11,36 +11,36 @@ Gosto de enfrentar desafios e estou sempre em busca de aprendizado contínuo, pr
 <p align="left">
     <a href="https://meu-linktree-v1.vercel.app/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Linktree" 
+            title="Linktree" 
             src="https://custom-icon-badges.demolab.com/badge/-LinkTree-purple?style=for-the-badge&logoColor=white&logo=sparkles-fill"
         />
     </a>
     <a href="https://portifolio-joao-takasake.vercel.app/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Portifolio" 
+            title="Portifolio" 
             src="https://custom-icon-badges.demolab.com/badge/-Portifolio-orange?style=for-the-badge&logoColor=white&logo=sparkles-fill"
         />
     </a>
     <a href="https://www.linkedin.com/in/joao-victor-takasake/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Linkedin" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=person-add""
         />
     </a>
-    <a href="https://www.linkedin.com/in/joao-victor-takasake/">
+    <a href="https://api.whatsapp.com/send/?phone=5511970820335&text&type=phone_number&app_absent=0">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Whatsapp" 
+            title="Whatsapp" 
             src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-success?style=for-the-badge&logoColor=white&logo=comment-discussion"
         />
     </a>
     <a href="mailto:jv2takasake@gmail.com">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Email" 
+            title="Email" 
             src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logoColor=white&logo=mail"
         />
     </a>
