@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 João Victor Takasake
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Jo%C3%A3o%20Victor%20Takasake%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 **`Desenvolvedor FullStack`**
 
